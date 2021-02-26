@@ -13,13 +13,13 @@ Old microwave operation: My-microwave-operation (1).gif
 -	Note, GIF is significantly compressed to fit inside 25Mb.
 Microwave-Demo-nocom.gif: Project microwave demonstration with no commentary
 
-Numpad.pde: The runner file for the microwave
+p1.ThomasUrech.pde: The runner file for the microwave
 clock_class.pde: class which runs the clock on the microwave.
 timer_class.pde: class which runs the cook and non-cook timer on the microwave.
 setter_class.pde: class which sets the timer/clock on the microwave.
 Arial_MT-24.vlw: font data file for controlp5.
-- Note, all 5 of these are required to run Numpad.pde. The font file goes in the "data" folder
-- Note, Must install minim (sound) and controlp5 (buttons) to run Numpad
+- Note, all 5 of these are required to run p1.ThomasUrech.pde. The font file goes in the "data" folder
+- Note, must also install minim (sound) and controlp5 (buttons) to run p1.ThomasUrech.pde
 
 braille_class.pde: unused. Meant to put braille letters over the buttons to make the design more accessible, but unfortunately the controlp5 buttons are in the top layer so I could not place anything over them. In real life, one could just add the letters to each button in manufacturing.
 Project Report.docx: the report
