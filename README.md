@@ -10,7 +10,7 @@ What the files do:
 Old microwave interface: My_microwave_buttons.jpg
 Old microwave whole: My_microwave_whole.jpg
 - Note, these two files are too large to completely fit in the Github preview
-Old microwave operation: My-microwave-operation (1).gif
+Old microwave operation: My-microwave-operation.gif
 -	Note, GIF is significantly compressed to fit inside 25Mb.
 Microwave-Demo-nocom.gif: Project microwave demonstration with no commentary
 
