@@ -23,5 +23,5 @@ Arial_MT-24.vlw: font data file for controlp5.
 - Note, must also install minim (sound) and controlp5 (buttons) to run p1.ThomasUrech.pde
 
 braille_class.pde: unused. Meant to put braille letters over the buttons to make the design more accessible, but unfortunately the controlp5 buttons are in the top layer so I could not place anything over them. In real life, one could just add the letters to each button in manufacturing.
-Project Report.docx: the report
+Project Report.pdf: the report
 
